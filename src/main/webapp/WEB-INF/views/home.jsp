@@ -10,7 +10,7 @@
 <h1>
 		MyToon
 </h1>
-<a href="/login/login">로그인</a>
+<a href="/login/signUp">로그인</a>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
